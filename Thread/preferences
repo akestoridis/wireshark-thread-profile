@@ -1,0 +1,24 @@
+####### User Interface: Columns ########
+
+# Packet list column format
+# Each pair of strings consists of a column title and its format
+gui.column.format:
+	"No.", "%m",
+	"Time", "%t",
+	"Delta time", "%Tt",
+	"Src RLOC16", "%Cus:wpan.src16:0:R",
+	"Src IPv6 address", "%Cus:ipv6.src:0:R",
+	"Src port", "%S",
+	"Dst RLOC16", "%Cus:wpan.dst16:0:R",
+	"Dst IPv6 address", "%Cus:ipv6.dst:0:R",
+	"Dst port", "%D",
+	"MAC SN", "%Cus:wpan.seq_no:0:R",
+	"UTC date", "%Yut",
+	"Length", "%L",
+	"Info", "%i"
+
+####### Protocols ########
+
+# Whether to validate the UDP checksum
+# TRUE or FALSE (case-insensitive)
+udp.check_checksum: TRUE
