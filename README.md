@@ -18,9 +18,19 @@ Once you have copied the `Thread` folder of this repository and pasted it inside
 
 ## Screenshots
 
-The following screenshot showcases some of the profile's coloring rules, but several columns were hidden and the text was slightly enlarged to be more legible. A more detailed screenshot is available [here](screenshot-wide.png).
+The following screenshot showcases some of the profile's coloring rules, but several columns were hidden and the text was slightly enlarged to be more legible. A more detailed screenshot is available [here](https://github.com/akestoridis/wireshark-thread-profile/raw/d7110a6506e4417f9bf150632c8e5a1508f2ad3a/screenshot-wide.png).
 
-<img src="screenshot-narrow.png">
+<img src="https://github.com/akestoridis/wireshark-thread-profile/raw/d7110a6506e4417f9bf150632c8e5a1508f2ad3a/screenshot-narrow.png">
+
+
+## Related Publications
+
+* D.-G. Akestoridis, V. Sekar, and P. Tague, “On the security of Thread networks: Experimentation with OpenThread-enabled devices,” to appear in Proc. ACM WiSec’22.
+
+
+## Acknowledgments
+
+This project was supported in part by the Carnegie Mellon CyLab Security and Privacy Institute and in part by Carnegie Mellon University.
 
 
 ## License
