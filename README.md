@@ -16,6 +16,13 @@ Regardless of your operating system, you can find the path of your Wireshark per
 Once you have copied the `Thread` folder of this repository and pasted it inside the `profiles` folder of your Wireshark personal configuration directory, you can enable it by opening Wireshark, navigating to `Edit`>`Configuration Profiles...`, and selecting the `Thread` profile.
 
 
+## Screenshots
+
+The following screenshot showcases some of the profile's coloring rules, but several columns were hidden and the text was slightly enlarged to be more legible. A more detailed screenshot is available [here](screenshot-wide.png).
+
+<img src="screenshot-narrow.png">
+
+
 ## License
 
 Copyright (C) 2022 Dimitrios-Georgios Akestoridis
