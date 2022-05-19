@@ -22,10 +22,12 @@ The following screenshot showcases some of the profile's coloring rules, but sev
 
 <img src="https://github.com/akestoridis/wireshark-thread-profile/raw/d7110a6506e4417f9bf150632c8e5a1508f2ad3a/screenshot-narrow.png">
 
+Both screenshots show the same packets from the `ot-nrf52840-pae-expt04.pcap` file of the [CRAWDAD dataset cmu/thread-devboards](https://doi.org/10.15783/xs01-4f07).
+
 
 ## Related Publications
 
-* D.-G. Akestoridis, V. Sekar, and P. Tague, “On the security of Thread networks: Experimentation with OpenThread-enabled devices,” to appear in Proc. ACM WiSec’22.
+* D.-G. Akestoridis, V. Sekar, and P. Tague, “On the security of Thread networks: Experimentation with OpenThread-enabled devices,” in *Proc. ACM WiSec’22*, 2022, pp. 233–244, doi: [10.1145/3507657.3528544](https://doi.org/10.1145/3507657.3528544).
 
 
 ## Acknowledgments
